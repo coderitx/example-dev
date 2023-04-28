@@ -1,4 +1,4 @@
-module github.com/scliang-strive/go_kit_server/kit_server03_consul
+module kit_server03_consul
 
 go 1.19
 

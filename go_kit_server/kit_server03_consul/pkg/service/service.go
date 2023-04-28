@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/scliang-strive/go_kit_server/kit_server03_consul/pkg/service/consul"
+	"kit_server03_consul/pkg/service/consul"
 )
 
 type Service interface {

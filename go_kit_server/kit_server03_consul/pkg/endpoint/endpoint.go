@@ -3,7 +3,7 @@ package endpoint
 import (
 	"context"
 	"github.com/go-kit/kit/endpoint"
-	"github.com/scliang-strive/go_kit_server/kit_server03_consul/pkg/service"
+	"kit_server03_consul/pkg/service"
 )
 
 type DiscoveryEndpoint struct {

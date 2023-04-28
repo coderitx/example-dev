@@ -8,7 +8,7 @@ import (
 	"github.com/go-kit/kit/transport"
 	kithttp "github.com/go-kit/kit/transport/http"
 	"github.com/gorilla/mux"
-	myEndpoint "github.com/scliang-strive/go_kit_server/kit_server03_consul/pkg/endpoint"
+	myEndpoint "kit_server03_consul/pkg/endpoint"
 	"net/http"
 )
 
